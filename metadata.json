@@ -1,0 +1,8 @@
+{
+  "name": "Professor OS",
+  "description": "Assistente Pessoal Baseado em Voz para Professores (Agenda e Finanças).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
